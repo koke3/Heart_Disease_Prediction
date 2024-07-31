@@ -37,3 +37,10 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/koke3/Heart_Disease_Prediction.git
    cd Heart_Disease_Prediction
+2. **Install the required packages:**:
+    ```bash
+   pip install -r requirements.txt
+3. **Run the Application**:
+```bash
+streamlit run app.py
+
